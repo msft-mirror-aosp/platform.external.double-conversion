@@ -15,7 +15,7 @@ license {
 }
 
 cc_library_static {
-    name: "libdoubleconversation",
+    name: "libdoubleconversion",
     export_include_dirs: ["."],
     srcs: [
         "double-conversion/bignum.cc",
