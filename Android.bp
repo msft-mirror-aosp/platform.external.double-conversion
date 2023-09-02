@@ -33,4 +33,5 @@ cc_library_static {
     visibility: [
         "//external/tensorflow:__subpackages__",
     ],
+    apex_available: ["com.android.ondevicepersonalization"],
 }
